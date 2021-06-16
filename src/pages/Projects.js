@@ -29,6 +29,7 @@ function Projects(props) {
           <p>I'm Nathan Hentges, and I am learning to be a full stack developer.</p>
         </div>
       </div>
+      <div style={{ height: '150px' }}></div>
     </div>
   );
 }
